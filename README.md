@@ -37,13 +37,11 @@ Morphe Manager installs a source from its GitHub releases. A release is created 
 ## 🩹 Patches list
 
 <!-- PATCHES_START -->
+> **[v1.0.0](https://github.com/ari-ayvazyan/Morphe/releases/tag/v1.0.0)**&nbsp;&nbsp;&middot;&nbsp;&nbsp;`main`&nbsp;&nbsp;&middot;&nbsp;&nbsp;**1 patch** across **1 app**&nbsp;&nbsp;&middot;&nbsp;&nbsp;[Full details](PATCHES.md)
 
-<!-- Do not modify this section by hand. The patch list is generated when release.yml creates a new release. -->
-
-| App | Patch | Description |
-|-----|-------|-------------|
-| YouTube Music | Android Auto lyrics | Adds a Lyrics tab to Android Auto that shows the lyrics of the song that is playing. |
-
+| # | App | Patches | Version | Package |
+|---|---|---|---|---|
+| 1 | [**YouTube Music**](PATCHES.md#youtube-music-comgoogleandroidappsyoutubemusic) | 1 | `experimental 9.46.51`, `experimental 9.45.51`, `experimental 9.44.52`, `experimental 9.30.53`, `experimental 9.20.53`, `experimental 9.15.51` | [`com.google.android.apps.youtube.music`](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) |
 <!-- PATCHES_END -->
 
 ## ⚙️ How it works
